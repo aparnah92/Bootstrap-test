@@ -63,3 +63,9 @@ body {
 input[type="radio"]{
     margin: 0 6px 0 6px;
   }
+
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
