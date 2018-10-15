@@ -37,6 +37,9 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 10px; }
 
+input[type="radio"] {
+  margin: 0 6px 0 6px; }
+
 .carousel {
   background: #512DA8; }
   .carousel .carousel-item {
@@ -51,3 +54,12 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+.modal-dark {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-dark .close-white {
+    color: floralwhite; }
+
+.modal-pale {
+  background-color: #D1C4E9; }
